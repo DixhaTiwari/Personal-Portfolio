@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
+
+
+*{
+    background: url("image/Sky.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin : 0;
+    padding: 0;
+
+  font-family: cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-family: cursive;
+  text-decoration: wavy;
+  list-style: square;
+}
+
+
+.content1 h1{
+  font-size: 4rem;
+  color: #f5eff3;
+  text-decoration: underline;
+
+}
+
+.Button-Container1{
+  border: 1rem solid #b3df6c;
+  font-size: 1rem;
+  width: 5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 200rem;
+  cursor: pointer;
+  transition: 5s ease;
+}
+
+.content1 .Detail1{
+  font-size: 1.1rem;
+  color: #f1e9dd;
+  max-width: 38rem;
+  margin: 3rem 2rem 3rem 1rem;
+  line-height: 1.8rem;
+} 
+
+#Btn1{
+  background: #eec706;
+}
+
+#Btn1:hover{
+  background: #ac941f;
+  transition: 1s ease-in-out;
+}
+
+
+
+
+.content2 h1{
+  font-size: 4rem;
+  color: #f5eff3;
+  text-decoration: underline;
+
+}
+
+.Button-Container2{
+  border: 1rem solid #b3df6c;
+  font-size: 1rem;
+  width: 5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 200rem;
+  cursor: pointer;
+  transition: 5s ease;
+}
+
+.content2 .Detail2{
+  font-size: 1.1rem;
+  color: #f1e9dd;
+  max-width: 38rem;
+  margin: 3rem 2rem 3rem 1rem;
+  line-height: 1.8rem;
+} 
+
+#Btn2{
+  background: #eec706;
+}
+
+#Btn2:hover{
+  background: #ac941f;
+  transition: 1s ease-in-out;
+}
